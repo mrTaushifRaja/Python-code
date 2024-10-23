@@ -1,0 +1,5 @@
+tup=(2,1,3,2,4)
+print(tup[1:3])
+print(tup[:4])
+print(tup[1:])
+#print(tup[-3,-1])
